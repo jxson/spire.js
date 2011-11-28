@@ -12,9 +12,9 @@
   , "http"
   , "client side"
   ]
-, "main": "./lib/spire",
+, "main": "./lib/spire"
 , "dependencies": {}
-, "devDependencies": {},
+, "devDependencies": {}
 , "engines": { "node": "~ 0.6.2" }
 , "scripts": {}
 }
